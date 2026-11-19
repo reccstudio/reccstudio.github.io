@@ -35,7 +35,7 @@ We use access controls and encrypted network connections provided by our app/bac
 
 ## Your choices and rights
 
-You can edit profile details, remove shared presets, control microphone and notification permissions in device settings, and request account deletion in the app. You can also request deletion at **https://plfxrjuvffwuxszyrgxf.supabase.co/functions/v1/delete-account**. Account deletion removes cloud account data and collaboration files covered by the deletion process; local recordings and projects on your device remain there and must be deleted separately. For privacy requests or questions, contact **reccstudio@gmail.com**. Depending on where you live, you may have additional rights to access, correct, delete, restrict, object to, or port your personal data, and to complain to a regulator.
+You can edit profile details, remove shared presets, control microphone and notification permissions in device settings, and request account deletion in the app. You can also delete your account on the web at **https://reccstudio.github.io/recc-account/delete-account.html** (sign in with the Google account you use in Recc, then confirm). Account deletion removes cloud account data and collaboration files covered by the deletion process; local recordings and projects on your device remain there and must be deleted separately. For privacy requests or questions, contact **reccstudio@gmail.com**. Depending on where you live, you may have additional rights to access, correct, delete, restrict, object to, or port your personal data, and to complain to a regulator.
 
 ## Children
 
